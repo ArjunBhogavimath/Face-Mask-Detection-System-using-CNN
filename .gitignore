@@ -1,0 +1,7 @@
+X.pickle
+Dataset/
+.ipynb_checkpoints/
+.jovianrc
+haarcascade_frontalface_default
+y.pickle
+my_model2.h5
